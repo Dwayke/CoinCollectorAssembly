@@ -1,0 +1,2 @@
+C:\Users\Dwayke\Desktop\MyProjects\VSAsmProject\Debug\Project.exe
+C:\Users\Dwayke\Desktop\MyProjects\VSAsmProject\Debug\Project.pdb
